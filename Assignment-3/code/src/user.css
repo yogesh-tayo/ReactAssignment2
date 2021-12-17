@@ -1,0 +1,57 @@
+#first{
+    background-color:rgb(252, 230, 230);
+    text-align: center;
+    font-size: 50;
+}
+#name{
+    font-weight: bold;
+}
+#btn{
+    float: right;
+    margin-top: -40px;
+    margin-right: 7%;
+    background-color: black;
+    color: white;
+    width: 70px;
+}
+#employeeid{
+    color: grey;
+    margin-top: -10px;
+}
+.customer-info{
+    background-color: rgb(238, 221, 67);
+}
+.order-info{
+    background-color: grey;
+    display: inline;
+}
+#tbl{
+    width: 100%;
+    background-color: lightgreen;
+}
+#tr{
+    text-align: center;
+    list-style-type: circle;
+}
+.product-list{
+    display:flex;
+    flex-direction: row;
+    width: auto;
+    margin-top: 70px;
+    background-color: rgb(189, 189, 236);
+
+    
+}
+.product-list #pic{
+    width: 150px;
+    height: 150px;
+    margin: 0 10px 0 40px;
+    
+   
+}
+#mdn{
+    padding: 50px 60px;
+    
+   
+
+ } 
